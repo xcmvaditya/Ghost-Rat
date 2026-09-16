@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.log
+loot/
+*.apk
+*.keystore
+.idea/
+.gradle/
+build/
+config.json
+.user
